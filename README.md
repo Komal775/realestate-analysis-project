@@ -106,50 +106,31 @@ Frontend runs on:
 👉 http://localhost:5173/
 
 🎥 Demo Video
+
 A demonstration video of the working chatbot is included below:
+
 👉 [Click to watch demo video](./Screen Recording 2025-11-21 182335.mp4)
+
 This video shows:
-
-
 Starting frontend and backend
-
-
 Sending real queries
-
-
 Analysis output
-
-
 Tables and charts
-
-
 CSV download
-
-
 
 📦 Submission Contents
 This repository contains:
-
-
 Full Django backend
-
-
 Full React frontend
-
-
 Excel dataset
-
-
 Demo video
-
-
 ZIP file (as required by assignment)
 
 
 
 ✨ Author
 Komal Nimbalkar
-Full Stack Developer Applicant – Sigmavalue Technologies
+Full Stack Developer Applicant 
 
 
 
